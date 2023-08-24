@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on **Admin Panel**
 
-- 🌱 I’m currently learning **React**
-
 - 👨‍💻 All of my projects are available at [https://github.com/TornikeALT?tab=projects](https://github.com/TornikeALT?tab=projects)
 
 - 📫 How to reach me **tornikealtunashvili@yahoo.com**
