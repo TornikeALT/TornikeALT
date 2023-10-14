@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Admin Panel**
 
-- 👨‍💻 All of my projects are available at https://github.com/TornikeALT
+- 👨‍💻 All of my projects are available at [https://github.com/TornikeALT](https://github.com/TornikeALT?tab=repositories)
 
 - 📫 How to reach me **tornikealtunashvili@yahoo.com**
 
